@@ -1,0 +1,11 @@
+Nama : Hani Amany Elisadi
+NIM  : 183140719111001
+Kelas: Software 4b
+
+Tugas Sistem Basis Data Mobile.
+Web http://localhost/apitest/product/create.php
+hasil error yang http error 400, Message: "Unable to create product. 
+Data is incomplete". Walaupun Postman sudah bisa dan juga database
+telah otomatis data dimasukkan dari Postman. Tapi Postman hanya bisa kirim 
+data ke database, walaupun Postman hasil error 503, Message":"Unable to 
+create product".
